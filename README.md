@@ -1,6 +1,6 @@
 - Merhabalar, ben Ali Osman Alperen Gürbilek
 - Kendimi program ve algoritma konusunda geliştirmeye çalışıyorum.
-- Kullandığım diller Python. Latex, C++ ve Linux.
+- Kullandığım diller Python, Matlab, Latex, C++ ve Linux.
 - KTO Karatay Üniversitesinde okumaktayım. 
 - Herhangi bir soru için aliosmangurbil@gmail.com aracalığızla benimle iletişime geçebilirsiniz.
 
